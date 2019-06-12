@@ -1,0 +1,7 @@
+num_int=133
+num_float=1.23
+sum=num_int+num_float
+print(sum)
+print(type(sum))
+import sys
+sys.path
