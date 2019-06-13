@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d5e65d-d354-4179-9d82-a3f1f9102db4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlowControl/ForLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlowControl/ForLoop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,16 +75,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FlowControl/ForLoop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlowControl/range.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -130,8 +130,8 @@
         <option value="$PROJECT_DIR$/FlowControl/ifidelse.py" />
         <option value="$PROJECT_DIR$/FlowControl/NestedIf.py" />
         <option value="$PROJECT_DIR$/Examples/OddAndEven.py" />
-        <option value="$PROJECT_DIR$/FlowControl/ForLoop.py" />
         <option value="$PROJECT_DIR$/FlowControl/range.py" />
+        <option value="$PROJECT_DIR$/FlowControl/ForLoop.py" />
       </list>
     </option>
   </component>
@@ -191,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.range">
+  <component name="RunManager" selected="Python.ForLoop">
     <configuration name="ForLoop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,8 +320,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.range" />
         <item itemvalue="Python.ForLoop" />
+        <item itemvalue="Python.range" />
         <item itemvalue="Python.OddAndEven" />
         <item itemvalue="Python.NestedIf" />
         <item itemvalue="Python.ifidelse" />
@@ -483,17 +483,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlowControl/ForLoop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FlowControl/range.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlowControl/ForLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
